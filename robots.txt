@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rilkhmsto.github.io/sitemap.html.gz
+Sitemap: https://rilkhmsto.github.io/app/sitemap.html.gz
+Sitemap: https://rilkhmsto.github.io/assets/sitemap.html.gz
+Sitemap: https://rilkhmsto.github.io/css/sitemap.html.gz
+Sitemap: https://rilkhmsto.github.io/includes/sitemap.html.gz
+Sitemap: https://rilkhmsto.github.io/item/sitemap.html.gz
+Sitemap: https://rilkhmsto.github.io/src/sitemap.html.gz
